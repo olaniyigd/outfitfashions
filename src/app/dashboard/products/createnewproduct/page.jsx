@@ -1,13 +1,14 @@
 "use client";
 
-import NewMerchant from "@/component/Dashboard/Merchant/Newmarchant";
+import NewProduct from "@/component/Dashboard/Product/NewProduct";
+
 
  
 const Page = () => {
 
   return (
    
-    <NewMerchant />
+    <NewProduct />
 
   );
 };
